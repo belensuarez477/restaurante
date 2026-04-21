@@ -1,5 +1,8 @@
 # restaurante
 Ejercicio practico para aprender Javascript desde cero.
+
+
+
 Consigna:
 Un restaurante esta a punto de calcular la cuenta de un comensal (cliente) al cual se le suma por seprado $2.800 + $1.300 de comida, y $900 + $650 de bebida. 
 Crear un programa en Javascript que calcule el total de comida, el total de bebida y el total de la cena completa.
