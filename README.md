@@ -19,7 +19,7 @@ Que se aprendio:
 - Asginar valor,
 - Mostrar resultado por pantalla.
 
-Que herramientas se utilizador:
+Que herramientas se utilizaron para crear dicho programa:
 - Visual Studio code,
 - Github,
 - Javascript,
